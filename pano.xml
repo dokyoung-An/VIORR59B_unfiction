@@ -308,7 +308,7 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max scaletofit="1" fovfisheye="360" fov="140" fovstereographic="330" pan="360" tilt="90"/>
     </view>
-    <userdata description="침실1욕실" author="" tags="02-59B타입|가구ON|낮" copyright="" info="" nodeid="node7" heading="91.7789" customnodeid="" datetime="" source="" comment="" latitude="" longitude="" title="침실1욕실">
+    <userdata description="침실1욕실" author="" tags="02-59B타입|가구ON|낮" copyright="" info="" nodeid="node7" heading="91.7789" customnodeid="" datetime="" source="" comment="넓게" latitude="" longitude="" title="침실1욕실">
       <mapcoords y="-1.21948" y_floorplan_percent="44.4" mapid="FloorPlan01" x="2.13135" x_floorplan_percent="77.6"/>
     </userdata>
     <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
@@ -692,7 +692,7 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max scaletofit="1" fovfisheye="360" fov="140" fovstereographic="330" pan="360" tilt="90"/>
     </view>
-    <userdata description="침실1욕실" author="" tags="59B낮|가구OFF|낮" copyright="" info="" nodeid="node23" heading="90.2582" customnodeid="" datetime="" source="" comment="" latitude="" longitude="" title="침실1욕실">
+    <userdata description="침실1욕실" author="" tags="59B낮|가구OFF|낮" copyright="" info="" nodeid="node23" heading="90.2582" customnodeid="" datetime="" source="" comment="넓게" latitude="" longitude="" title="침실1욕실">
       <mapcoords y="-1.13159" y_floorplan_percent="41.2" mapid="FloorPlan02" x="2.2522" x_floorplan_percent="82"/>
     </userdata>
     <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
@@ -1075,7 +1075,7 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max scaletofit="1" fovfisheye="360" fov="140" fovstereographic="330" pan="360" tilt="90"/>
     </view>
-    <userdata description="침실1욕실" author="" tags="59B무빙월밤|가구ON|밤" copyright="" info="" nodeid="node36" heading="100.28" customnodeid="" datetime="" source="" comment="" latitude="" longitude="" title="침실1욕실">
+    <userdata description="침실1욕실" author="" tags="59B무빙월밤|가구ON|밤" copyright="" info="" nodeid="node36" heading="100.28" customnodeid="" datetime="" source="" comment="넓게" latitude="" longitude="" title="침실1욕실">
       <mapcoords y="-1.15356" y_floorplan_percent="42" mapid="FloorPlan03" x="2.26318" x_floorplan_percent="82.4"/>
     </userdata>
     <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
@@ -1461,7 +1461,7 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max scaletofit="1" fovfisheye="360" fov="140" fovstereographic="330" pan="360" tilt="90"/>
     </view>
-    <userdata description="침실1욕실" author="" tags="59B밤|가구OFF|밤" copyright="" info="" nodeid="node45" heading="109.081" customnodeid="" datetime="" source="" comment="" latitude="" longitude="" title="침실1욕실">
+    <userdata description="침실1욕실" author="" tags="59B밤|가구OFF|밤" copyright="" info="" nodeid="node45" heading="109.081" customnodeid="" datetime="" source="" comment="넓게" latitude="" longitude="" title="침실1욕실">
       <mapcoords y="-1.19751" y_floorplan_percent="43.6" mapid="FloorPlan04" x="2.26318" x_floorplan_percent="82.4"/>
     </userdata>
     <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
